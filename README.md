@@ -24,7 +24,9 @@ The aim of this project is to transform raw retail sales data into meaningful in
 * 3) REMOVE DUPLICATE ROWS 
 * 4) REMOVE EMPTY ROWS 
 
+
 => FOR CHECKING THE CORRECTNESS OF THE STEPS ABOVE REFER TO THE PDF IN REPOSITORY : DATASET LOADING AND TRANSFORMING.pdf
+
 
 ## 📊 **Key Metrics (Executive Summary)**
 
@@ -109,6 +111,7 @@ The aim of this project is to transform raw retail sales data into meaningful in
 
 => FOR CHECKING THE PAGE NUMBER MENTIONED ABOVE REFER TO THE PDF IN REPOSITORY : TASK 2 DATA VISUALIZATION AND STORYTELLING.pdf
 
+
 ## 📌 **Highlights**
 
 * 🔹 **Most profitable sub-category:** Phones
@@ -117,6 +120,7 @@ The aim of this project is to transform raw retail sales data into meaningful in
 * 🔹 **Segment leader:** Consumer in the West
 * 🔹 **Low-profit areas:** Central region, high-discount items
   
+
 ## 🔐 **Data Source Disclaimer**
 
 The Superstore dataset used in this project is publicly available and contains no sensitive or personal data.
