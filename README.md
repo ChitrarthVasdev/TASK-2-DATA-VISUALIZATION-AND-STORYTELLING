@@ -19,10 +19,10 @@ The aim of this project is to transform raw retail sales data into meaningful in
 ---
 
 ## DATASET LOADING AND TRANSFORMING
-* **1) EXPORT THE DATASET **
-* **2) THEN TRANSFORM IT **
-* **3) REMOVE DUPLICATE ROWS **
-* **4) REMOVE EMPTY ROWS **
+* 1) EXPORT THE DATASET 
+* 2) THEN TRANSFORM IT 
+* 3) REMOVE DUPLICATE ROWS 
+* 4) REMOVE EMPTY ROWS 
 
 
 ## 📊 **Key Metrics (Executive Summary)**
