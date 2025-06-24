@@ -24,6 +24,7 @@ The aim of this project is to transform raw retail sales data into meaningful in
 * 3) REMOVE DUPLICATE ROWS 
 * 4) REMOVE EMPTY ROWS 
 
+FOR CHECKING THE CORRECTNESS OF THE STEPS ABOVE REFER TO THE PDF IN REPOSITORY : DATASET LOADING AND TRANSFORMING.pdf
 
 ## 📊 **Key Metrics (Executive Summary)**
 
@@ -105,6 +106,7 @@ The aim of this project is to transform raw retail sales data into meaningful in
   * Segment performance
 
 ---
+FOR CHECKING THE PAGE NUMBER MENTIONED ABOVE REFER TO THE PDF IN REPOSITORY : TASK 2 DATA VISUALIZATION AND STORYTELLIN.pdf
 
 ## 📌 **Highlights**
 
